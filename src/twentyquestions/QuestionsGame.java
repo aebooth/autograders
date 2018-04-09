@@ -43,7 +43,6 @@ public class QuestionsGame {
     }
 
     public void play(){
-        System
     }
 
     private static class QuestionNode{
